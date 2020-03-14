@@ -1,0 +1,4 @@
+#!/bin/bash
+
+mysql < ./db/V1_Init.sql
+
